@@ -87,7 +87,7 @@ Here are some operational security good practices for bitcoin meetup organizers
 
 Operating in the real world always comes with real world risks and bitcoiners are not the only group that is susceptible to these types of risks. Opsec is important for everyone, but remember that as a bitcoin meetup organizer you are advertising yourself to the world as a leader of a group focused on the best performing financial asset in history.
 
-Taking on more responsibility and accountability can be extremely rewarding, but almost always comes with risk. And remember, everything is too risky if you are a \[coward\] ;)
+Taking on more responsibility and accountability can be extremely rewarding, but almost always comes with risk. 
 
 # **How to Start a Bitcoin Meetup**
 
@@ -109,6 +109,7 @@ Here are some recommendations for where to post your meetup events:
 - [Orange Pill App](https://www.orangepillapp.com/)
 - [Evento](https://evento.so/)
 - [Eventbrite](https://www.eventbrite.com/)
+- [Luma](https://luma.com/)
 - Your Meetup's Website
 - [Twitter (X)](https://x.com/)
 - [Nostr](https://primal.net/home)
@@ -123,7 +124,7 @@ Most meetups do not advertise outside of simply posting them to any number of th
 - A box of business cards is actually quite cheap ~\$20 and you can put a QR code on them that links to your website, social media, meetup page or similar where they will be able to find where you post your upcoming meetups
 - Start a social media account for your meetup and post announcements, reminders and photos or other media from past events
 - There are several bitcoin podcasts that will read out boosts from podcasting 2.0 apps such as fountain or during live streams
-  - [Rabbit Hole Recap](https://www.fountain.fm/show/VDaMppQRUBZioj2XkaLn) (21000 sat minimum for a shoutout)
+  - [Rabbit Hole Recap](https://www.fountain.fm/show/VDaMppQRUBZioj2XkaLn) (21,000 sat minimum for a shoutout)
   - [Bitcoin And…](https://www.fountain.fm/show/eK5XaSb3UaLRavU3lYrI)
 
 At the end of the day, most meetup hosts will most likely agree that word of mouth is by far the biggest way that new members join. So, remind your meetup group to invite their friends, family and coworkers to attend, and make sure that your meetup is friendly and welcoming to newcomers, regardless of where they are on their bitcoin rabbit hole adventure.
