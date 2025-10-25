@@ -29,3 +29,5 @@ This page is intended to only be edited by bitcoin meetup organizers or others w
 - Share practical meetup ideas (e.g., finding venues, hosting events, links to content).
 - Keep it Bitcoin-focused and spam-free.
 - Feel free to credit yourself (CC0 allows it but doesn’t require it).
+
+Stuck? Join our Telegram chat group (DM @ReedBTC on telegram for an invite) or start an [Issue](https://github.com/ReedBTC/Grassroots-Quarterly/issues) for help. Thanks for joining the grassroots movement!
