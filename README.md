@@ -61,7 +61,7 @@ Bitcoin is an open-source project and can be changed by anyone at any time. But,
 
 Running a bitcoin meetup can be a daunting undertaking and in many ways it is a big commitment. But fortunately, if you are the organizer of your local meetup you are in control of how much you are committing to.
 
-Running a bitcoin meetup can be as easy as posting a date, time and location of where you will be hanging out anyway! In that case your only real commitment is to show up! For meetup organizers just showing up, especially when you can do it consistently, honestly gets you at least 90% of all the benefit you can bring to your local bitcoin community!
+Running a bitcoin meetup can be as easy as posting a date, time and location of where you will be hanging out anyway! In that case your only real commitment is to show up! For meetup organizers just showing up, especially when you can do it consistently, gets you a good portion of the benefit of hosting your meetup!
 
 The best advice for bitcoin meetup organizers is to pick a day/time that works for you and to show up at that time consistently at whatever frequency you can fit into your life. Most meetups meet monthly, but some meet more or less frequently, depending on the meetup organizer and what level of commitment they feel comfortable with.
 
@@ -71,7 +71,7 @@ As you start to give yourself more responsibility as a community leader, you wil
 
 Unlike meeting others online, meeting in real life can come with real life risks that should not be underestimated or underappreciated. Unlike bitcoin, which is a non-physical asset that can be protected with nuclear grade security in the form of strong encryption, YOU _are_ a physical asset and you should always be aware of the risks that come with operating in the real world.
 
-Do not take this warning as a guarantee that if you start a bitcoin meetup that you will be attacked or physically assaulted in some way. Physical attacks in bitcoin are real, however, the vast majority of bitcoin physical attacks occur when people know that you will be carrying large quantities of money on your person and are generally occur when you are alone or isolated in some way.
+Do not take this warning as a guarantee that if you start a bitcoin meetup that you will be attacked or physically assaulted in some way. Physical attacks in bitcoin are real, however, the vast majority of bitcoin physical attacks occur when people know that you will be carrying large quantities of money on your person and generally occur when you are alone or isolated in some way.
 
 Here are some operational security good practices for bitcoin meetup organizers
 
@@ -82,12 +82,13 @@ Here are some operational security good practices for bitcoin meetup organizers
   - If you have access to a well endowed lightning node on your phone, set daily or weekly transfer limits
   - Do not keep bitcoin on an exchange that you can access from your phone or set withdraw limits or white-listed addresses
 - Consider adopting a geographically distributed multisig setup for your bitcoin cold storage
-- Pay attention. If you notice people watching people arrive or leave take additional precautions, warn others, or change the way you list or advertise your meetup
+- Pay attention. If you notice someone watching people arrive or leave take additional precautions, warn others, or change the way you list or advertise your meetup
 - If you start a telegram or signal group, be aware of scammers and impersonators who will join the group and try to get people to send them bitcoin
+  - It can be a good practice not to share your telegram link publically... just share it in person when new people join.
 
 Operating in the real world always comes with real world risks and bitcoiners are not the only group that is susceptible to these types of risks. Opsec is important for everyone, but remember that as a bitcoin meetup organizer you are advertising yourself to the world as a leader of a group focused on the best performing financial asset in history.
 
-Taking on more responsibility and accountability can be extremely rewarding, but almost always comes with risk. 
+Taking on more responsibility and accountability can be extremely rewarding, but almost always comes with additional risk. 
 
 # **How to Start a Bitcoin Meetup**
 
@@ -114,7 +115,7 @@ Here are some recommendations for where to post your meetup events:
 - [Twitter (X)](https://x.com/)
 - [Nostr](https://primal.net/home)
 
-Many bitcoin meetups also start their own telegram or Signal groups where they will also send out reminders and notifications of new events or to communicate side events or other fun things that other people in the group want to get the word out about. Personally, I have found that sometimes people may be reluctant to download and/or enable notifications on ANOTHER app, so I also started to collect email addresses so I can send out reminders that way and more people (especially older members) are more likely to see it.
+Many bitcoin meetups also start their own Telegram or Signal groups where they will also send out reminders and notifications of new events or to communicate side events or other fun things that other people in the group want to get the word out about. Personally, I have found that sometimes people may be reluctant to download and/or enable notifications on ANOTHER app, so I also started to collect email addresses so I can send out reminders that way and more people (especially older members) are more likely to see it.
 
 ## **How to Advertise your Bitcoin Meetup**
 
