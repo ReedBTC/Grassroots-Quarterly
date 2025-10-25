@@ -1,29 +1,29 @@
 # **Table of Contents**
 
-- **Welcome**
-- **Why Start or Continue a Bitcoin Meetup**
-  - **What are you Committing to as a Bitcoin Meetup Organizer**
-  - **Disclaimers and Risks**
-- **How to Start a Bitcoin Meetup**
-  - **Where to List your Bitcoin Meetup**
-  - **How to Advertise your Bitcoin Meetup**
-  - **How to Find a Venue for your Meetup**
-    - **_Social Meetups_**
-    - **_Educational Meetups_**
-- **How to Build a Meetup Website**
-  - **List of Example Bitcoin Meetup Websites**
-- **Repository for Meetup Content**
-  - **Bitcoin Presentations**
-  - **Bitcoin Resource Collections**
-  - **Other Bitcoin Meetup Content**
-- **Get Support for your Bitcoin Meetup**
-  - **Community Support**
-    - **_Grassroots Bitcoin_**
-    - **_Grassroots Quarterly Roundtable_**
-  - **Financial Support**
-    - **_External Financial Support_**
-    - **_Starting a Non-Profit_**
-  - **_FAQs_**
+- [**Welcome**](#welcome)
+- [**Why Start or Continue a Bitcoin Meetup**](#why-start-or-continue-a-bitcoin-meetup)
+  - [**What are you Committing to as a Bitcoin Meetup Organizer**](#what-are-you-committing-to-as-a-bitcoin-meetup-organizer)
+  - [**Disclaimers and Risks**](#disclaimers-and-risks)
+- [**How to Start a Bitcoin Meetup**](#how-to-start-a-bitcoin-meetup)
+  - [**Where to List your Bitcoin Meetup**](#where-to-list-your-bitcoin-meetup)
+  - [**How to Advertise your Bitcoin Meetup**](#how-to-advertise-your-bitcoin-meetup)
+  - [**How to Find a Venue for your Meetup**](#how-to-find-a-venue-for-your-meetup)
+    - [**_Social Meetups_**](#social-meetups)
+    - [**_Educational Meetups_**](#educational-meetups)
+- [**How to Build a Meetup Website**](#how-to-build-a-meetup-website)
+  - [**List of Example Bitcoin Meetup Websites**](#list-of-example-bitcoin-meetup-websites)
+- [**Repository for Meetup Content**](#repository-for-meetup-content)
+  - [**Bitcoin Presentations**](#bitcoin-presentations)
+  - [**Bitcoin Resource Collections**](#bitcoin-resource-collections)
+  - [**Other Bitcoin Meetup Content**](#other-bitcoin-meetup-content)
+- [**Get Support for your Bitcoin Meetup**](#get-support-for-your-bitcoin-meetup)
+  - [**Community Support**](#community-support)
+    - [**_Grassroots Bitcoin_**](#grassroots-bitcoin)
+    - [**_Grassroots Quarterly Roundtable_**](#grassroots-quarterly-roundtable)
+  - [**Financial Support**](#financial-support)
+    - [**_External Financial Support_**](#external-financial-support)
+    - [**_Starting a Non-Profit_**](#starting-a-non-profit)
+  - [**_FAQs_**](#faqs)
 
 # **Welcome**
 
