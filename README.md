@@ -31,7 +31,7 @@ Welcome to the Grassroots Quarterly Bitcoin Meetup Resources page! This is inten
 
 Running a bitcoin meetup can be a daunting undertaking and in many ways it is a big commitment. But building a community of local bitcoiners may be one of the most important and impactful things that you can do to advance bitcoin adoption and strengthen Bitcoin's most important security layer: the social consensus layer
 
-Bitcoin is an open-source project and can be changed by anyone at any time. But, the bitcoin network runs on a social consensus of people who all agree what the rules of bitcoin are. As bitcoin continues to run, there will be future proposals for soft forks and hard forks and it is imperative that we have an active and educated social consensus layer of bitcoiners who run the nodes and economically contribute to the bitcoin base layer.
+Bitcoin is an open-source project and can be changed by anyone at any time. But, the bitcoin network runs on a social consensus of people who all agree what the rules of bitcoin are. As bitcoin continues to run, there will be future proposals for soft forks and hard forks and it is imperative that we have an active and educated social layer of bitcoiners who run the nodes and contribute economically to bitcoin by participating in the bitcoin ecosystem.
 
 Bitcoin meetups are where we can continue to foster the development and education of new bitcoiners by offering a physical space for people to come together and share ideas, ask questions and learn from each other.
 
