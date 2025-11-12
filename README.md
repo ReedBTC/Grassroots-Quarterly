@@ -27,7 +27,7 @@
 
 # **Welcome**
 
-Welcome to the Grassroots Quarterly Bitcoin Meetup Resources page! This is intended to host as many resources as possible for bitcoin meetup organizers around the world.
+Welcome to the Bitcoin Meetups Resources page! This is intended to host as many resources as possible for bitcoin meetup organizers around the world.
 
 Running a bitcoin meetup can be a daunting undertaking and in many ways it is a big commitment. But building a community of local bitcoiners may be one of the most important and impactful things that you can do to advance bitcoin adoption and strengthen Bitcoin's most important security layer: the social consensus layer
 
