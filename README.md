@@ -216,6 +216,7 @@ There are also services who will build you a website; however, these are service
 - [Bitcoin Holidays](https://bitcoin.holiday/)
 - [Bitcoin Short Films](https://www.youtube.com/playlist?list=PLYsYdNHw5JmkiK5D2e9qElWx2J4U9H-Cg)
 - [Bitcoin Documentaries](https://www.youtube.com/playlist?list=PLYsYdNHw5JmmP-0DQEKOshsE7rWpmW9pX)
+- [Merchant Adoption Info](https://www.bitcoinmerchantcommunity.org/)
 
 # **Get Support for your Bitcoin Meetup**
 
