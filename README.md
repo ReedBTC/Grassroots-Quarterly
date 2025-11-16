@@ -180,28 +180,28 @@ There are also services who will build you a website; however, these are service
 
 ## **Bitcoin Presentations**
 
-- [Self-Custody Security Fundamentals](https://docs.google.com/presentation/d/1I2wijWKs_3dVsSzra7Snn4_13W3XoAd20uu-5IyRhoY/edit?usp=sharing)
-- [Ashigaru Basics](https://drive.proton.me/urls/FVTHGMEDZC#C2CGUcdlslRB)
-- [Introduction to Bitcoin](https://docs.google.com/presentation/d/1Olvt8rtl4rUdrd4tAQ9bNKBrXtUy0HZ4ted12vPbxGU/edit?slide=id.g5d826269cc_0_2#slide=id.g5d826269cc_0_2)
-- [Rediscovering Savings Technology](https://docs.google.com/presentation/d/1meiap_qKrt6WNX4KiRr4PoaBXuS07CLgpntAloPgWqE/edit?slide=id.g8032136b13_0_0#slide=id.g8032136b13_0_0)
-- [Onboarding 1 Billion People to Private Keys](https://x.com/mshodl/status/1431662011004428294)
-- [Bitcoin and the Ethics of Money Production](https://bitstein.org/slides/bitcoin-and-the-ethics-of-money-production.pdf)
-- [The War on Privacy](https://docs.google.com/presentation/d/1g1JvXJYbCwT90QqMRIOl-q9UOwbW0OF__0xOWZoOrtI/edit?slide=id.g2afd06ddbc5_0_0#slide=id.g2afd06ddbc5_0_0)
-- My First Bitcoin PDF Slides
+- [Self-Custody Security Fundamentals - Sept 2024](https://docs.google.com/presentation/d/1I2wijWKs_3dVsSzra7Snn4_13W3XoAd20uu-5IyRhoY/edit?usp=sharing)
+- [Ashigaru Basics - Apr 2025](https://drive.proton.me/urls/FVTHGMEDZC#C2CGUcdlslRB)
+- [Introduction to Bitcoin - Nov 2019](https://docs.google.com/presentation/d/1Olvt8rtl4rUdrd4tAQ9bNKBrXtUy0HZ4ted12vPbxGU/edit?slide=id.g5d826269cc_0_2#slide=id.g5d826269cc_0_2)
+- [Rediscovering Savings Technology - May 2020](https://docs.google.com/presentation/d/1meiap_qKrt6WNX4KiRr4PoaBXuS07CLgpntAloPgWqE/edit?slide=id.g8032136b13_0_0#slide=id.g8032136b13_0_0)
+- [Onboarding 1 Billion People to Private Keys - Aug 2021](https://x.com/mshodl/status/1431662011004428294)
+- [Bitcoin and the Ethics of Money Production - Apr 2014](https://bitstein.org/slides/bitcoin-and-the-ethics-of-money-production.pdf)
+- [The War on Privacy - May 2024](https://docs.google.com/presentation/d/1g1JvXJYbCwT90QqMRIOl-q9UOwbW0OF__0xOWZoOrtI/edit?slide=id.g2afd06ddbc5_0_0#slide=id.g2afd06ddbc5_0_0)
+- My First Bitcoin PDF Slides - Nov 2024
   - [Chapters 1-3](https://757btc.org/assets/education/MFB_ch_1-3.pdf)
   - [Chapters 4-6](https://757btc.org/assets/education/MFB_Ch_4-6.pdf)
   - [Chapter 7](https://757btc.org/assets/education/MFB_Ch_7.pdf)
-- [Education Topics](https://757btc.org/assets/education/ES_topics.pdf)
-- [Bitcoin Fundamentals Freedom of Speech](https://757btc.org/assets/education/bitcoin_fundamentals_freeSpeech.pdf)
-- [Bitcoin Fundamentals Security Cryptography](https://757btc.org/assets/education/ES_BitcoinSecurity101.pdf)
-- [The Case for Bitcoin](https://757btc.org/assets/education/ES_CaseForBitcoin.pdf)
-- [Personal Digital Security](https://757btc.org/assets/education/ES_personalDigitalSecurity.pdf)
-- [Bitcoin Layers](https://757btc.org/assets/education/ES_BitcoinLayers.pdf)
-- [Lightning Workshop](https://757btc.org/assets/education/ES_Lightning.pdf)
-- [Bitcoin: Use Cases](https://anilsaidso.gumroad.com/l/btcusecases)
-- [Bitcoin Terminology: Making Sense of the Jargon](https://anilsaidso.gumroad.com/l/terminology)
-- [Bitcoin Fallacies: Debunking the FUD](https://anilsaidso.gumroad.com/l/fallacies)
-- [Proof of Work Basics](https://anilsaidso.gumroad.com/l/pow)
+- [Education Topics - Jan 2025](https://757btc.org/assets/education/ES_topics.pdf)
+- [Bitcoin Fundamentals Freedom of Speech - Sept 2025](https://757btc.org/assets/education/bitcoin_fundamentals_freeSpeech.pdf)
+- [Bitcoin Fundamentals Security Cryptography - Oct 2025](https://757btc.org/assets/education/ES_BitcoinSecurity101.pdf)
+- [The Case for Bitcoin - Mar 2024](https://757btc.org/assets/education/ES_CaseForBitcoin.pdf)
+- [Personal Digital Security - Mar 2024](https://757btc.org/assets/education/ES_personalDigitalSecurity.pdf)
+- [Bitcoin Layers - Jun 2025](https://757btc.org/assets/education/ES_BitcoinLayers.pdf)
+- [Lightning Workshop - Apr 2025](https://757btc.org/assets/education/ES_Lightning.pdf)
+- [Node Builder Workshop - Nov 2025](https://speakerdeck.com/rrbtc/node-builder-workshop-13-nov-2025)
+- [From First Sats on Bisq to Bitcoin Retirement - Oct 2025](https://speakerdeck.com/rrbtc/bisq-to-bitcoinretirement)
+- [Decentralized Home Mining w/ Bitaxe - Apr 2025](https://speakerdeck.com/rrbtc/bitaxe)
+
 
 ## **Bitcoin Resource Collections**
 
@@ -212,11 +212,15 @@ There are also services who will build you a website; however, these are service
 
 ## **Other Bitcoin Meetup Content**
 
+- [Merchant Adoption Info & Square Terminal Instructions - Nov 2025](https://www.bitcoinmerchantcommunity.org/)
 - [Bitcoin Infographics](https://anilsaidso.gumroad.com/l/vbtc)
 - [Bitcoin Holidays](https://bitcoin.holiday/)
 - [Bitcoin Short Films](https://www.youtube.com/playlist?list=PLYsYdNHw5JmkiK5D2e9qElWx2J4U9H-Cg)
 - [Bitcoin Documentaries](https://www.youtube.com/playlist?list=PLYsYdNHw5JmmP-0DQEKOshsE7rWpmW9pX)
-- [Merchant Adoption Info & Square Terminal Instructions](https://www.bitcoinmerchantcommunity.org/)
+- [Bitcoin: Use Cases](https://anilsaidso.gumroad.com/l/btcusecases)
+- [Bitcoin Terminology: Making Sense of the Jargon](https://anilsaidso.gumroad.com/l/terminology)
+- [Bitcoin Fallacies: Debunking the FUD](https://anilsaidso.gumroad.com/l/fallacies)
+- [Proof of Work Basics](https://anilsaidso.gumroad.com/l/pow)
 
 # **Get Support for your Bitcoin Meetup**
 
