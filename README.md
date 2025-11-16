@@ -13,7 +13,7 @@
 - [**How to Build a Meetup Website**](#how-to-build-a-meetup-website)
   - [**List of Example Bitcoin Meetup Websites**](#list-of-example-bitcoin-meetup-websites)
 - [**Repository for Meetup Content**](#repository-for-meetup-content)
-  - [**Bitcoin Presentations**](#bitcoin-presentations)
+  - [**Meetup Presentations**](#meetup-presentations)
   - [**Bitcoin Resource Collections**](#bitcoin-resource-collections)
   - [**Other Bitcoin Meetup Content**](#other-bitcoin-meetup-content)
 - [**Get Support for your Bitcoin Meetup**](#get-support-for-your-bitcoin-meetup)
@@ -175,32 +175,31 @@ There are also services who will build you a website; however, these are service
 - [Bay Area Bitcoiners](https://www.bayareabitcoiners.com/)
 - [San Antonio Bitcoin Club](https://www.sanantoniobitcoinclub.com/)
 - [Bitcoin Park](https://bitcoinpark.com/)
+- [Round Rock Bitcoiners](https://roundrockbitcoiners.com/)
 
 # **Repository for Meetup Content**
 
-## **Bitcoin Presentations**
+## **Meetup Presentations**
 
-- [Self-Custody Security Fundamentals - Sept 2024](https://docs.google.com/presentation/d/1I2wijWKs_3dVsSzra7Snn4_13W3XoAd20uu-5IyRhoY/edit?usp=sharing)
-- [Ashigaru Basics - Apr 2025](https://drive.proton.me/urls/FVTHGMEDZC#C2CGUcdlslRB)
-- [Introduction to Bitcoin - Nov 2019](https://docs.google.com/presentation/d/1Olvt8rtl4rUdrd4tAQ9bNKBrXtUy0HZ4ted12vPbxGU/edit?slide=id.g5d826269cc_0_2#slide=id.g5d826269cc_0_2)
-- [Rediscovering Savings Technology - May 2020](https://docs.google.com/presentation/d/1meiap_qKrt6WNX4KiRr4PoaBXuS07CLgpntAloPgWqE/edit?slide=id.g8032136b13_0_0#slide=id.g8032136b13_0_0)
-- [Onboarding 1 Billion People to Private Keys - Aug 2021](https://x.com/mshodl/status/1431662011004428294)
-- [Bitcoin and the Ethics of Money Production - Apr 2014](https://bitstein.org/slides/bitcoin-and-the-ethics-of-money-production.pdf)
-- [The War on Privacy - May 2024](https://docs.google.com/presentation/d/1g1JvXJYbCwT90QqMRIOl-q9UOwbW0OF__0xOWZoOrtI/edit?slide=id.g2afd06ddbc5_0_0#slide=id.g2afd06ddbc5_0_0)
-- My First Bitcoin PDF Slides - Nov 2024
-  - [Chapters 1-3](https://757btc.org/assets/education/MFB_ch_1-3.pdf)
-  - [Chapters 4-6](https://757btc.org/assets/education/MFB_Ch_4-6.pdf)
-  - [Chapter 7](https://757btc.org/assets/education/MFB_Ch_7.pdf)
-- [Education Topics - Jan 2025](https://757btc.org/assets/education/ES_topics.pdf)
-- [Bitcoin Fundamentals Freedom of Speech - Sept 2025](https://757btc.org/assets/education/bitcoin_fundamentals_freeSpeech.pdf)
-- [Bitcoin Fundamentals Security Cryptography - Oct 2025](https://757btc.org/assets/education/ES_BitcoinSecurity101.pdf)
-- [The Case for Bitcoin - Mar 2024](https://757btc.org/assets/education/ES_CaseForBitcoin.pdf)
-- [Personal Digital Security - Mar 2024](https://757btc.org/assets/education/ES_personalDigitalSecurity.pdf)
-- [Bitcoin Layers - Jun 2025](https://757btc.org/assets/education/ES_BitcoinLayers.pdf)
-- [Lightning Workshop - Apr 2025](https://757btc.org/assets/education/ES_Lightning.pdf)
-- [Node Builder Workshop - Nov 2025](https://speakerdeck.com/rrbtc/node-builder-workshop-13-nov-2025)
-- [From First Sats on Bisq to Bitcoin Retirement - Oct 2025](https://speakerdeck.com/rrbtc/bisq-to-bitcoinretirement)
-- [Decentralized Home Mining w/ Bitaxe - Apr 2025](https://speakerdeck.com/rrbtc/bitaxe)
+| Title | Date | Source |
+|---|---|---|
+| [Node Builder Workshop](https://speakerdeck.com/rrbtc/node-builder-workshop-13-nov-2025) | Nov 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
+| [Bitcoin Fundamentals Security Cryptography](https://757btc.org/assets/education/ES_BitcoinSecurity101.pdf) | Oct 2025 | [757btc.org](https://757btc.org/) |
+| [From First Sats on Bisq to Bitcoin Retirement](https://speakerdeck.com/rrbtc/bisq-to-bitcoinretirement) | Oct 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
+| [Bitcoin Fundamentals Freedom of Speech](https://757btc.org/assets/education/bitcoin_fundamentals_freeSpeech.pdf) | Sept 2025 | [757btc.org](https://757btc.org/) |
+| [Bitcoin Layers](https://757btc.org/assets/education/ES_BitcoinLayers.pdf) | Jun 2025 | [757btc.org](https://757btc.org/) |
+| [Lightning Workshop](https://757btc.org/assets/education/ES_Lightning.pdf) | Apr 2025 | [757btc.org](https://757btc.org/) |
+| [Decentralized Home Mining w/ Bitaxe](https://speakerdeck.com/rrbtc/bitaxe) | Apr 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
+| [Education Topics](https://757btc.org/assets/education/ES_topics.pdf) | Jan 2025 | [757btc.org](https://757btc.org/) |
+| [My First Bitcoin PDF Slides - Ch. 1-3](https://757btc.org/assets/education/MFB_ch_1-3.pdf) / [Ch. 4-6](https://757btc.org/assets/education/MFB_Ch_4-6.pdf) / [Ch. 7](https://757btc.org/assets/education/MFB_Ch_7.pdf) | Nov 2024 | [757btc.org](https://757btc.org/) |
+| [Self-Custody Security Fundamentals](https://docs.google.com/presentation/d/1I2wijWKs_3dVsSzra7Snn4_13W3XoAd20uu-5IyRhoY/edit?usp=sharing) | Sept 2024 | [Western Mass Bitcoin](westernmassbitcoin.com) |
+| [The War on Privacy](https://docs.google.com/presentation/d/1g1JvXJYbCwT90QqMRIOl-q9UOwbW0OF__0xOWZoOrtI/edit?slide=id.g2afd06ddbc5_0_0#slide=id.g2afd06ddbc5_0_0) | May 2024 | [Western Mass Bitcoin](westernmassbitcoin.com)|
+| [Personal Digital Security](https://757btc.org/assets/education/ES_personalDigitalSecurity.pdf) | Mar 2024 | [757btc.org](https://757btc.org/) |
+| [The Case for Bitcoin](https://757btc.org/assets/education/ES_CaseForBitcoin.pdf) | Mar 2024 | [757btc.org](https://757btc.org/) |
+| [Onboarding 1 Billion People to Private Keys](https://x.com/mshodl/status/1431662011004428294) | Aug 2021 | [Justine Harper](https://x.com/mshodl) |
+| [Rediscovering Savings Technology](https://docs.google.com/presentation/d/1meiap_qKrt6WNX4KiRr4PoaBXuS07CLgpntAloPgWqE/edit?slide=id.g8032136b13_0_0#slide=id.g8032136b13_0_0) | May 2020 | [Pierre Rochard](https://x.com/BitcoinPierre) |
+| [Introduction to Bitcoin](https://docs.google.com/presentation/d/1Olvt8rtl4rUdrd4tAQ9bNKBrXtUy0HZ4ted12vPbxGU/edit?slide=id.g5d826269cc_0_2#slide=id.g5d826269cc_0_2) | Nov 2019 | [Pierre Rochard](https://x.com/BitcoinPierre) |
+| [Bitcoin and the Ethics of Money Production](https://bitstein.org/slides/bitcoin-and-the-ethics-of-money-production.pdf) | Apr 2014 | [Bitstein](https://bitstein.org/) |
 
 
 ## **Bitcoin Resource Collections**
