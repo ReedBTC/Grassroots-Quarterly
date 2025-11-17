@@ -188,7 +188,7 @@ There are also services who will build you a website; however, these are service
 | [Bitcoin Fundamentals Security Cryptography](https://757btc.org/assets/education/ES_BitcoinSecurity101.pdf) | Oct 2025 | [757btc.org](https://757btc.org/) |
 | [From First Sats on Bisq to Bitcoin Retirement](https://speakerdeck.com/rrbtc/bisq-to-bitcoinretirement) | Oct 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
 | [Bitcoin Fundamentals Freedom of Speech](https://757btc.org/assets/education/bitcoin_fundamentals_freeSpeech.pdf) | Sept 2025 | [757btc.org](https://757btc.org/) |
-| [September 2025 Socratic Seminar](https://docs.google.com/presentation/d/1h1uN_mU1mVU3IwYTZpU5ce_8XYzHcOkU8dJyC0k9dT4/edit?usp=sharing) | Nov 2025 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
+| [September 2025 Socratic Seminar](https://docs.google.com/presentation/d/1h1uN_mU1mVU3IwYTZpU5ce_8XYzHcOkU8dJyC0k9dT4/edit?usp=sharing) | Sept 2025 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [Bitcoin Layers](https://757btc.org/assets/education/ES_BitcoinLayers.pdf) | Jun 2025 | [757btc.org](https://757btc.org/) |
 | [Lightning Workshop](https://757btc.org/assets/education/ES_Lightning.pdf) | Apr 2025 | [757btc.org](https://757btc.org/) |
 | [Decentralized Home Mining w/ Bitaxe](https://speakerdeck.com/rrbtc/bitaxe) | Apr 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
