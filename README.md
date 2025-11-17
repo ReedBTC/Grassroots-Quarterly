@@ -184,16 +184,18 @@ There are also services who will build you a website; however, these are service
 | Title | Date | Source |
 |---|---|---|
 | [Node Builder Workshop](https://speakerdeck.com/rrbtc/node-builder-workshop-13-nov-2025) | Nov 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
+| [November 2025 Socratic Seminar](https://docs.google.com/presentation/d/1FUC1JUDpqMbTzv3uqfhpcyaX5bc97-FL-SbYGxHNhoM/edit?usp=sharing) | Nov 2025 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [Bitcoin Fundamentals Security Cryptography](https://757btc.org/assets/education/ES_BitcoinSecurity101.pdf) | Oct 2025 | [757btc.org](https://757btc.org/) |
 | [From First Sats on Bisq to Bitcoin Retirement](https://speakerdeck.com/rrbtc/bisq-to-bitcoinretirement) | Oct 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
 | [Bitcoin Fundamentals Freedom of Speech](https://757btc.org/assets/education/bitcoin_fundamentals_freeSpeech.pdf) | Sept 2025 | [757btc.org](https://757btc.org/) |
+| [September 2025 Socratic Seminar](https://docs.google.com/presentation/d/1h1uN_mU1mVU3IwYTZpU5ce_8XYzHcOkU8dJyC0k9dT4/edit?usp=sharing) | Nov 2025 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [Bitcoin Layers](https://757btc.org/assets/education/ES_BitcoinLayers.pdf) | Jun 2025 | [757btc.org](https://757btc.org/) |
 | [Lightning Workshop](https://757btc.org/assets/education/ES_Lightning.pdf) | Apr 2025 | [757btc.org](https://757btc.org/) |
 | [Decentralized Home Mining w/ Bitaxe](https://speakerdeck.com/rrbtc/bitaxe) | Apr 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
 | [Education Topics](https://757btc.org/assets/education/ES_topics.pdf) | Jan 2025 | [757btc.org](https://757btc.org/) |
 | [My First Bitcoin PDF Slides - Ch. 1-3](https://757btc.org/assets/education/MFB_ch_1-3.pdf) / [Ch. 4-6](https://757btc.org/assets/education/MFB_Ch_4-6.pdf) / [Ch. 7](https://757btc.org/assets/education/MFB_Ch_7.pdf) | Nov 2024 | [757btc.org](https://757btc.org/) |
-| [Self-Custody Security Fundamentals](https://docs.google.com/presentation/d/1I2wijWKs_3dVsSzra7Snn4_13W3XoAd20uu-5IyRhoY/edit?usp=sharing) | Sept 2024 | [Western Mass Bitcoin](westernmassbitcoin.com) |
-| [The War on Privacy](https://docs.google.com/presentation/d/1g1JvXJYbCwT90QqMRIOl-q9UOwbW0OF__0xOWZoOrtI/edit?slide=id.g2afd06ddbc5_0_0#slide=id.g2afd06ddbc5_0_0) | May 2024 | [Western Mass Bitcoin](westernmassbitcoin.com)|
+| [Self-Custody Security Fundamentals](https://docs.google.com/presentation/d/1I2wijWKs_3dVsSzra7Snn4_13W3XoAd20uu-5IyRhoY/edit?usp=sharing) | Sept 2024 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
+| [The War on Privacy](https://docs.google.com/presentation/d/1g1JvXJYbCwT90QqMRIOl-q9UOwbW0OF__0xOWZoOrtI/edit?slide=id.g2afd06ddbc5_0_0#slide=id.g2afd06ddbc5_0_0) | May 2024 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [Personal Digital Security](https://757btc.org/assets/education/ES_personalDigitalSecurity.pdf) | Mar 2024 | [757btc.org](https://757btc.org/) |
 | [The Case for Bitcoin](https://757btc.org/assets/education/ES_CaseForBitcoin.pdf) | Mar 2024 | [757btc.org](https://757btc.org/) |
 | [Onboarding 1 Billion People to Private Keys](https://x.com/mshodl/status/1431662011004428294) | Aug 2021 | [Justine Harper](https://x.com/mshodl) |
