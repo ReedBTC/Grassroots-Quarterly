@@ -203,6 +203,7 @@ There are also services who will build you a website; however, these are service
 | [Introduction to Bitcoin](https://docs.google.com/presentation/d/1Olvt8rtl4rUdrd4tAQ9bNKBrXtUy0HZ4ted12vPbxGU/edit?slide=id.g5d826269cc_0_2#slide=id.g5d826269cc_0_2) | Nov 2019 | [Pierre Rochard](https://x.com/BitcoinPierre) |
 | [Bitcoin and the Ethics of Money Production](https://bitstein.org/slides/bitcoin-and-the-ethics-of-money-production.pdf) | Apr 2014 | [Bitstein](https://bitstein.org/) |
 
+Bitdevs also are great about publishing their topics on their websites. [Here is a list bitdevs](https://bitdevs.org/cities) and [here is a list of bitdevs](https://github.com/BitDevsNYC/BitDevsNYC.github.io/forks?include=active%2Cnetwork&page=2&period=2y&sort_by=last_updated) that forked off directly from the NYC bitdevs that can be sorted by last activity on their repos - this is another good place to find topics for your next bitcoin meetup. 
 
 ## **Bitcoin Resource Collections**
 
